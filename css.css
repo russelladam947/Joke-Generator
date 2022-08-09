@@ -21,4 +21,5 @@ h1{
     color: blue;
     font-weight: bold;
     cursor: pointer;
+    text-align: center;
 }
